@@ -1,4 +1,3 @@
-
 # HOmeSpec  
 
 HOmeSpec is a mobile application designed to revolutionize the workflow for architects, interior designers, and manufacturers. It serves as a seamless bridge between creators and product manufacturers, offering an augmented reality (AR) powered tool to visualize furniture and decor items in real-world spaces before purchasing.  
@@ -126,4 +125,13 @@ For queries and suggestions, feel free to reach out to:
 - **Email**: harshasumanchandra05@gmail.com
 
 ## We will soon be posting the look and feel of the application and walk you through the playground!
+
+
+---
+
+### **Steps to Save and Commit the Merge**
+1. Replace the content of the `README.md` file with the merged content above.
+2. Mark the conflict as resolved:
+   ```bash
+   git add README.md
 
