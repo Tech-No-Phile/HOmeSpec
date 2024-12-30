@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037436577882",
+    "project_id": "arreal-f08e0",
+    "storage_bucket": "arreal-f08e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037436577882:android:1aa1875a02df46f9999063",
+        "android_client_info": {
+          "package_name": "com.example.home_spec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxWZt5gO2yi-IPbHzN8T44AlYKs6ol5Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
