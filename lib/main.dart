@@ -33,7 +33,8 @@ class LoginPage extends StatelessWidget {
           Container(
             decoration: const BoxDecoration(
               image: DecorationImage(
-                image: AssetImage('assets/image.jpg'), // Set your image path here
+                image:
+                    AssetImage('assets/image.jpg'), // Set your image path here
                 fit: BoxFit.cover,
               ),
             ),
@@ -112,7 +113,8 @@ class SignUpPage extends StatelessWidget {
           Container(
             decoration: const BoxDecoration(
               image: DecorationImage(
-                image: AssetImage('assets/image.jpg'), // Set your image path here
+                image:
+                    AssetImage('assets/image.jpg'), // Set your image path here
                 fit: BoxFit.cover,
               ),
             ),
@@ -193,7 +195,8 @@ class DashboardPage extends StatelessWidget {
           Container(
             decoration: const BoxDecoration(
               image: DecorationImage(
-                image: AssetImage('assets/image.jpg'), // Set your image path here
+                image:
+                    AssetImage('assets/image.jpg'), // Set your image path here
                 fit: BoxFit.cover,
               ),
             ),
